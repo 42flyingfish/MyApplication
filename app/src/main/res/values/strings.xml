@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="hi_my_name_is">Hi, my name is %1$s!</string>
+    <string name="button_clicked">Button Clicked!</string>
+    <string name="eric">Eric</string>
+    <string name="click_me">Click Me!</string>
 </resources>
