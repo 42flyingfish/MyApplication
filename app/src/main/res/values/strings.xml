@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="hi_my_name_is">Hi, my name is %1$s!</string>
+    <string name="welcome_to_the_first_of_many_android_apps">Welcome to the first of many Android apps</string>
 </resources>
